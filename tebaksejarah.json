@@ -1,147 +1,332 @@
 [
     {
         "index": 0,
-        "soal": "Siapakah tokoh sejarah yang memimpin Revolusi Amerika Serikat melawan Inggris?",
-        "jawaban": "George Washington"
+        "soal": "Siapakah penemu mesin uap yang menjadi dasar Revolusi Industri?",
+        "jawaban": "James Watt"
     },
     {
         "index": 1,
-        "soal": "Pada tahun berapakah Perang Dunia I dimulai?",
-        "jawaban": "1914"
+        "soal": "Perang Dunia I berlangsung pada tahun berapa?",
+        "jawaban": "1914-1918"
     },
     {
         "index": 2,
-        "soal": "Siapakah pemimpin Jerman Nazi selama Perang Dunia II?",
-        "jawaban": "Adolf Hitler"
+        "soal": "Siapa presiden pertama Indonesia?",
+        "jawaban": "Ir. Soekarno"
     },
     {
         "index": 3,
-        "soal": "Apa nama perjanjian yang mengakhiri Perang Dunia I pada tahun 1919?",
-        "jawaban": "Perjanjian Versailles"
+        "soal": "Apa nama kapal yang digunakan Christopher Columbus dalam ekspedisi ke Amerika?",
+        "jawaban": "Santa Maria"
     },
     {
         "index": 4,
-        "soal": "Siapakah tokoh sejarah yang memimpin Revolusi Rusia pada tahun 1917?",
-        "jawaban": "Vladimir Lenin"
+        "soal": "Di manakah Piramida Giza berada?",
+        "jawaban": "Mesir"
     },
     {
         "index": 5,
-        "soal": "Pada tahun berapakah Amerika Serikat memperoleh kemerdekaannya dari Inggris?",
-        "jawaban": "1776"
+        "soal": "Siapa tokoh yang dikenal sebagai Bapak Proklamasi Indonesia?",
+        "jawaban": "Soekarno"
     },
     {
         "index": 6,
-        "soal": "Siapakah tokoh sejarah yang memimpin perjuangan kemerdekaan India dari Inggris?",
-        "jawaban": "Mahatma Gandhi"
+        "soal": "Perang Saudara Amerika terjadi pada tahun berapa?",
+        "jawaban": "1861-1865"
     },
     {
         "index": 7,
-        "soal": "Pada tahun berapakah Perang Dunia II berakhir?",
-        "jawaban": "1945"
+        "soal": "Siapa yang menulis buku 'The Prince' yang terkenal dalam ilmu politik?",
+        "jawaban": "Niccolò Machiavelli"
     },
     {
         "index": 8,
+        "soal": "Kerajaan Majapahit mencapai puncak kejayaannya di bawah kepemimpinan siapa?",
+        "jawaban": "Hayam Wuruk"
+    },
+    {
+        "index": 9,
+        "soal": "Apa nama perjanjian yang mengakhiri Perang Dunia I?",
+        "jawaban": "Perjanjian Versailles"
+    },
+    {
+        "index": 10,
+        "soal": "Siapa yang menemukan benua Amerika pada tahun 1492?",
+        "jawaban": "Christopher Columbus"
+    },
+    {
+        "index": 11,
+        "soal": "Siapa raja Prancis yang dijuluki 'Raja Matahari'?",
+        "jawaban": "Louis XIV"
+    },
+    {
+        "index": 12,
+        "soal": "Apa nama perang yang terjadi antara Inggris dan Prancis selama abad ke-14 hingga ke-15?",
+        "jawaban": "Perang Seratus Tahun"
+    },
+    {
+        "index": 13,
+        "soal": "Siapakah pemimpin Uni Soviet selama Perang Dunia II?",
+        "jawaban": "Joseph Stalin"
+    },
+    {
+        "index": 14,
+        "soal": "Apa nama dinding yang memisahkan Jerman Timur dan Jerman Barat?",
+        "jawaban": "Tembok Berlin"
+    },
+    {
+        "index": 15,
+        "soal": "Siapa pendiri Dinasti Ottoman?",
+        "jawaban": "Osman I"
+    },
+    {
+        "index": 16,
+        "soal": "Kapan Indonesia merdeka?",
+        "jawaban": "17 Agustus 1945"
+    },
+    {
+        "index": 17,
+        "soal": "Siapa yang mendirikan Republik Rakyat Tiongkok pada tahun 1949?",
+        "jawaban": "Mao Zedong"
+    },
+    {
+        "index": 18,
+        "soal": "Siapa tokoh yang memimpin Revolusi Kuba?",
+        "jawaban": "Fidel Castro"
+    },
+    {
+        "index": 19,
+        "soal": "Apa nama perjanjian yang mengakhiri Perang Dingin?",
+        "jawaban": "Perjanjian Malta"
+    },
+    {
+        "index": 20,
+        "soal": "Siapakah pemimpin Nazi Jerman selama Perang Dunia II?",
+        "jawaban": "Adolf Hitler"
+    },
+    {
+        "index": 21,
+        "soal": "Apa nama kota yang dijatuhi bom atom pertama kali?",
+        "jawaban": "Hiroshima"
+    },
+    {
+        "index": 22,
+        "soal": "Siapa yang dikenal sebagai Bapak Pendiri Amerika Serikat?",
+        "jawaban": "George Washington"
+    },
+    {
+        "index": 23,
+        "soal": "Apa nama peristiwa yang menyebabkan runtuhnya Kekaisaran Romawi Barat?",
+        "jawaban": "Penjarahan Roma tahun 476 M"
+    },
+    {
+        "index": 24,
+        "soal": "Siapa raja yang membangun Candi Borobudur?",
+        "jawaban": "Raja Samaratungga"
+    },
+    {
+        "index": 25,
+        "soal": "Apa nama peristiwa yang memicu Revolusi Prancis?",
+        "jawaban": "Penyerbuan Bastille"
+    },
+    {
+        "index": 26,
+        "soal": "Apa nama perjanjian yang membagi dunia antara Spanyol dan Portugal?",
+        "jawaban": "Perjanjian Tordesillas"
+    },
+    {
+        "index": 27,
+        "soal": "Siapa penulis kitab 'Sutasoma' yang terkenal dengan slogan Bhinneka Tunggal Ika?",
+        "jawaban": "Mpu Tantular"
+    },
+    {
+        "index": 28,
+        "soal": "Apa nama proyek bom atom yang dikembangkan AS selama Perang Dunia II?",
+        "jawaban": "Proyek Manhattan"
+    },
+    {
+        "index": 29,
+        "soal": "Siapa raja Inggris yang terkenal dengan reformasi gerejanya?",
+        "jawaban": "Henry VIII"
+    },
+    {
+        "index": 30,
+        "soal": "Apa nama aliansi militer yang dipimpin AS selama Perang Dingin?",
+        "jawaban": "NATO"
+    },
+    {
+        "index": 31,
+        "soal": "Siapa penjelajah yang pertama kali mengelilingi dunia?",
+        "jawaban": "Ferdinand Magellan"
+    },
+    {
+        "index": 32,
+        "soal": "Apa nama dokumen yang menandai berdirinya Amerika Serikat?",
+        "jawaban": "Deklarasi Kemerdekaan"
+    },
+    {
+        "index": 33,
+        "soal": "Apa nama perang yang menyebabkan runtuhnya Uni Soviet?",
+        "jawaban": "Perang Afghanistan"
+    },
+    {
+        "index": 34,
+        "soal": "Siapakah pemimpin Perang Diponegoro?",
+        "jawaban": "Pangeran Diponegoro"
+    },
+    {
+        "index": 35,
+        "soal": "Apa nama kerajaan pertama di Nusantara?",
+        "jawaban": "Kerajaan Kutai"
+    },
+    {
+        "index": 36,
         "soal": "Siapakah presiden Amerika Serikat pertama?",
         "jawaban": "George Washington"
     },
     {
-        "index": 9,
-        "soal": "Pada tahun berapakah Jepang menyerang Pearl Harbor?",
-        "jawaban": "1941"
+        "index": 37,
+        "soal": "Apa nama perjanjian yang mengakhiri Perang Dunia II di Eropa?",
+        "jawaban": "Perjanjian Potsdam"
     },
     {
-        "index": 10,
-        "soal": "Siapakah tokoh sejarah yang memimpin perjuangan kemerdekaan Indonesia dari Belanda?",
-        "jawaban": "Soekarno"
+        "index": 38,
+        "soal": "Siapa yang mendirikan Kekaisaran Mongol?",
+        "jawaban": "Jenghis Khan"
     },
     {
-        "index": 11,
-        "soal": "Pada tahun berapakah Berlin Wall runtuh?",
+        "index": 39,
+        "soal": "Kapan Berlin Wall runtuh?",
         "jawaban": "1989"
     },
     {
-        "index": 12,
-        "soal": "Siapakah tokoh sejarah yang memimpin Revolusi Prancis pada tahun 1789?",
-        "jawaban": "Napoleon Bonaparte"
+        "index": 40,
+        "soal": "Siapa tokoh utama dalam Revolusi Industri di Inggris?",
+        "jawaban": "James Watt"
     },
     {
-        "index": 13,
-        "soal": "Pada tahun berapakah Amerika Serikat melepaskan bom atom di Hiroshima dan Nagasaki?",
-        "jawaban": "1945"
+        "index": 41,
+        "soal": "Apa nama pertempuran yang menjadi titik balik dalam Perang Dunia II di Front Timur?",
+        "jawaban": "Pertempuran Stalingrad"
     },
     {
-        "index": 14,
-        "soal": "Siapakah tokoh sejarah yang memimpin perjuangan kemerdekaan Afrika Selatan dari apartheid?",
+        "index": 42,
+        "soal": "Siapa pendiri dinasti Umayyah?",
+        "jawaban": "Muawiyah bin Abu Sufyan"
+    },
+    {
+        "index": 43,
+        "soal": "Apa nama kapal yang digunakan oleh Ferdinand Magellan dalam pelayaran mengelilingi dunia?",
+        "jawaban": "Victoria"
+    },
+    {
+        "index": 44,
+        "soal": "Siapakah yang dikenal sebagai Bapak Ekonomi Dunia?",
+        "jawaban": "Adam Smith"
+    },
+    {
+        "index": 45,
+        "soal": "Di negara mana Revolusi Bolshevik terjadi?",
+        "jawaban": "Rusia"
+    },
+    {
+        "index": 46,
+        "soal": "Siapa pemimpin Afrika Selatan yang menghapus sistem apartheid?",
         "jawaban": "Nelson Mandela"
     },
     {
-        "index": 15,
-        "soal": "Pada tahun berapakah Perang Dunia I berakhir?",
-        "jawaban": "1918"
+        "index": 47,
+        "soal": "Apa nama kota yang menjadi pusat kekaisaran Romawi Timur?",
+        "jawaban": "Konstantinopel"
     },
     {
-        "index": 16,
-        "soal": "Siapakah tokoh sejarah yang memimpin perjuangan kemerdekaan Skotlandia dari Inggris?",
-        "jawaban": "William Wallace"
+        "index": 48,
+        "soal": "Siapa tokoh yang memimpin India menuju kemerdekaan melalui perlawanan damai?",
+        "jawaban": "Mahatma Gandhi"
     },
     {
-        "index": 17,
-        "soal": "Pada tahun berapakah Uni Soviet runtuh?",
-        "jawaban": "1991"
+        "index": 49,
+        "soal": "Apa nama kerajaan pertama di Nusantara?",
+        "jawaban": "Kerajaan Kutai"
     },
     {
-        "index": 18,
-        "soal": "Siapakah tokoh sejarah yang memimpin perjuangan kemerdekaan Meksiko dari Spanyol?",
-        "jawaban": "Miguel Hidalgo"
+        "index": 50,
+        "soal": "Siapa yang menemukan teori relativitas?",
+        "jawaban": "Albert Einstein"
     },
     {
-        "index": 19,
-        "soal": "Pada tahun berapakah Perang Dunia II dimulai?",
-        "jawaban": "1939"
+        "index": 51,
+        "soal": "Apa nama peristiwa yang menyebabkan Amerika Serikat terlibat dalam Perang Dunia II?",
+        "jawaban": "Serangan Pearl Harbor"
     },
     {
-        "index": 20,
-        "soal": "Siapakah tokoh sejarah yang memimpin perjuangan kemerdekaan Venezuela dari Spanyol?",
-        "jawaban": "Simon Bolivar"
+        "index": 52,
+        "soal": "Siapa kaisar pertama Jepang yang membuka negaranya untuk perdagangan luar?",
+        "jawaban": "Kaisar Meiji"
     },
     {
-        "index": 21,
-        "soal": "Pada tahun berapakah Amerika Serikat memperoleh wilayah Alaska dari Rusia?",
-        "jawaban": "1867"
+        "index": 53,
+        "soal": "Apa nama konflik antara AS dan Uni Soviet tanpa pertempuran langsung?",
+        "jawaban": "Perang Dingin"
     },
     {
-        "index": 22,
-        "soal": "Siapakah tokoh sejarah yang memimpin perjuangan kemerdekaan Kuba dari Spanyol?",
-        "jawaban": "Fidel Castro"
+        "index": 54,
+        "soal": "Siapa tokoh di balik penyatuan Jerman pada tahun 1871?",
+        "jawaban": "Otto von Bismarck"
     },
     {
-        "index": 23,
-        "soal": "Pada tahun berapakah terjadi Revolusi Industri di Inggris?",
-        "jawaban": "Abad 18"
+        "index": 55,
+        "soal": "Apa nama peristiwa yang memicu Perang Dunia I?",
+        "jawaban": "Pembunuhan Archduke Franz Ferdinand"
     },
     {
-        "index": 24,
-        "soal": "Siapakah tokoh sejarah yang memimpin perjuangan kemerdekaan Argentina dari Spanyol?",
-        "jawaban": "Jose de San Martin"
+        "index": 56,
+        "soal": "Siapakah penjelajah pertama yang mencapai India melalui jalur laut?",
+        "jawaban": "Vasco da Gama"
     },
     {
-        "index": 25,
-        "soal": "Pada tahun berapakah Amerika Serikat memperoleh wilayah Puerto Rico dari Spanyol?",
-        "jawaban": "1898"
+        "index": 57,
+        "soal": "Apa nama revolusi yang menggulingkan pemerintahan Louis XVI di Prancis?",
+        "jawaban": "Revolusi Prancis"
     },
     {
-        "index": 26,
-        "soal": "Siapakah tokoh sejarah yang memimpin perjuangan kemerdekaan Brasil dari Portugal?",
-        "jawaban": "Dom Pedro I"
+        "index": 58,
+        "soal": "Siapa raja pertama Kerajaan Singasari?",
+        "jawaban": "Ken Arok"
     },
     {
-        "index": 27,
-        "soal": "Pada tahun berapakah Amerika Serikat memperoleh wilayah Hawaii?",
-        "jawaban": "1898"
+        "index": 59,
+        "soal": "Apa nama peristiwa yang menandai dimulainya Perang Dingin?",
+        "jawaban": "Blokade Berlin"
     },
     {
-        "index": 28,
-        "soal": "Siapakah tokoh sejarah yang memimpin perjuangan kemerdekaan Kanada dari Inggris?",
-        "jawaban": "Sir John A. Macdonald"
+        "index": 60,
+        "soal": "Siapa yang membangun Tembok Besar China?",
+        "jawaban": "Dinasti Qin"
+    },
+    {
+        "index": 61,
+        "soal": "Apa nama perjanjian yang mengakhiri Perang Napoleon?",
+        "jawaban": "Perjanjian Wina"
+    },
+    {
+        "index": 62,
+        "soal": "Siapa pemimpin pertama Uni Soviet?",
+        "jawaban": "Vladimir Lenin"
+    },
+    {
+        "index": 63,
+        "soal": "Apa nama pertempuran terbesar dalam Perang Dunia I?",
+        "jawaban": "Pertempuran Somme"
+    },
+    {
+        "index": 64,
+        "soal": "Siapa penemu bola lampu?",
+        "jawaban": "Thomas Edison"
+    },
+    {
+        "index": 65,
+        "soal": "Apa nama dokumen yang menandai kemerdekaan Amerika Serikat?",
+        "jawaban": "Deklarasi Kemerdekaan"
     }
 ]
